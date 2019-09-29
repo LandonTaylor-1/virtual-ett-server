@@ -5,7 +5,7 @@ const bodyParser = require("body-parser");
 require("dotenv").config();
 const path = require('path');
 
-const INDEX = path.join(__dirname, 'index.html');
+const INDEX = path.join(__dirname);
 app.use((req, res) => res.sendFile(INDEX) )
 
 let pesLeftRoutes = require('./routes/pesLeftRoute');
