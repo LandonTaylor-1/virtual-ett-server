@@ -20,7 +20,7 @@ mongoose.set("debug", true);
 mongoose.Promise = global.Promise;
 mongoose.connect(process.env.mongodburi, {useNewUrlParser: true});
 
-const port = process.env.PORT || 3001;
+const port = process.env.PORT;
 
 const server = require('http').createServer(app);
 const io = require('socket.io')(server);
