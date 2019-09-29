@@ -3,10 +3,6 @@ const mongoose = require('mongoose');
 const app = express()
 const bodyParser = require("body-parser");
 require("dotenv").config();
-// const path = require('path');
-
-// const INDEX = path.join(__dirname, 'index.html');
-// app.use((req, res) => res.sendFile(INDEX) )
 
 let pesLeftRoutes = require('./routes/pesLeftRoute');
 let pesRightRoutes = require('./routes/pesRightRoute');
