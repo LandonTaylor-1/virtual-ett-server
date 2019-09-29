@@ -6,7 +6,7 @@ require("dotenv").config();
 // const path = require('path');
 
 // const INDEX = path.join(__dirname);
-app.use((req, res) => res.sendFile(__dirname) )
+app.use((req, res) => res.sendFile('https://veett.herokuapp.com') )
 
 let pesLeftRoutes = require('./routes/pesLeftRoute');
 let pesRightRoutes = require('./routes/pesRightRoute');
