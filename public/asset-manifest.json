@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.578421a2.chunk.css",
+    "main.css": "/static/css/main.796c9b50.chunk.css",
     "main.js": "/static/js/main.cf2226f2.chunk.js",
     "main.js.map": "/static/js/main.cf2226f2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.748c9e13.js",
@@ -8,9 +8,9 @@
     "static/js/2.fbc0b32f.chunk.js": "/static/js/2.fbc0b32f.chunk.js",
     "static/js/2.fbc0b32f.chunk.js.map": "/static/js/2.fbc0b32f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6d549e351e82894263970532c94d67a0.js": "/precache-manifest.6d549e351e82894263970532c94d67a0.js",
+    "precache-manifest.a89bcadd829af1e45a1e43291b22b7e9.js": "/precache-manifest.a89bcadd829af1e45a1e43291b22b7e9.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.578421a2.chunk.css.map": "/static/css/main.578421a2.chunk.css.map",
+    "static/css/main.796c9b50.chunk.css.map": "/static/css/main.796c9b50.chunk.css.map",
     "static/media/operatorView.css": "/static/media/glasses.1944bd80.png",
     "static/media/view.css": "/static/media/midnight.a5b64575.gif"
   }
